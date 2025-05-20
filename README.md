@@ -25,4 +25,4 @@ The code is set to AAPL but it can be modified for other stock tickers.
 
 ---
 
-![App Screenshot](/Users/royhce/stock-sentiment-tracker/DemoImage.png)
+![App Screenshot](./DemoImage.png)
